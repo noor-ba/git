@@ -1,2 +1,6 @@
 # git
 Ecommerce
+
+
+
+#project note
